@@ -67,6 +67,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: #000;
 }
 
+.carousel-4 .btn-primary{
+  background-color: #000;
+}
+
 #home-section .home-inner .h4 {
   font-weight: 400;
 }
@@ -116,7 +120,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .icn-feature {
-  width: 230px;
+  height: 40px;
 }
 
 .product-col-1 {
