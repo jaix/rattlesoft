@@ -50,15 +50,20 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .carousel-2 {
-  background: url("../images/carousel-bg-2.jpg") #fff;
+  background: url("../images/carousel-bg-2-new.jpg") #fff;
   color: #000;
 }
 
 .carousel-3 {
   background: url("../images/carousel-bg-3.jpg") #fff;
+  color: #000;
 }
 
-.carousel-2 p {
+.carousel-4 {
+  background: url("../images/carousel-bg-4.jpg") #fff;
+}
+
+.carousel-3 p {
   color: #000;
 }
 
